@@ -14,7 +14,7 @@ The wallpapers are drawn from the work of Andrew J. Russell, one of the earliest
 ---
 ## Wallpaper Gallery
 
-This theme includes six carefully selected paintings:
+This theme includes twelve carefully selected photographs:
 
 | Preview | Artwork |
 | --- | --- |
