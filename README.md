@@ -2,7 +2,7 @@
 
 A monochrome Omarchy dark theme inspired by Andrew J. Russell's photographs documenting the construction of America's first transcontinental railroad.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/railroad-visions-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/railroad-visions-omarchy?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/railroad-visions.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/railroad-visions-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/railroad-visions-omarchy?style=flat-square) ![Hits](https://hits.sh/github.com/mattbbia/railroad-visions.svg?style=flat-square&label=hits&color=44cc11) <img src="omarchy-icon.png" width="20" height="20" alt="Omarchy" title="Omarchy Quattro Ready"> ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square) ![Mode](https://img.shields.io/badge/mode-dark-1e1e2e?style=flat-square)
 
 ![Preview Image](preview.png)
 
