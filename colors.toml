@@ -1,31 +1,31 @@
-# UI Colors (extended)
+mode = "dark"
+
 accent = "#c9a593"
-cursor = "#d7cdb1"
+selection = "#403732"
+muted = "#69625f"
 
-# Primary colors
-foreground = "#d7cdb1"
 background = "#1f130e"
+dark_background = "#170e0a"
+darker_background = "#100a07"
+lighter_background = "#352b26"
 
-# Selection colors
-selection_foreground = "#1f130e"
-selection_background = "#d7cdb1"
+foreground = "#d7cdb1"
+dark_foreground = "#9f9883"
+light_foreground = "#ddd4bd"
+bright_foreground = "#e1dac4"
 
-# Normal colors (ANSI 0-7)
-color0 = "#1f130e"
-color1 = "#c7a291"
-color2 = "#cdbc92"
-color3 = "#d7c69a"
-color4 = "#c9a593"
-color5 = "#d0ab9a"
-color6 = "#d1bf97"
-color7 = "#d7cdb1"
+red = "#c7a291"
+yellow = "#d7c69a"
+orange = "#cdaf94"
+green = "#cdbc92"
+cyan = "#d1bf97"
+blue = "#c9a593"
+magenta = "#d0ab9a"
+brown = "#716051"
 
-# Bright colors (ANSI 8-15)
-color8 = "#69625f"
-color9 = "#edc3ad"
-color10 = "#e3c976"
-color11 = "#edd37e"
-color12 = "#edc5ad"
-color13 = "#f0c7b1"
-color14 = "#e8cb7c"
-color15 = "#ecda9a"
+bright_red = "#edc3ad"
+bright_yellow = "#edd37e"
+bright_green = "#e3c976"
+bright_cyan = "#e8cb7c"
+bright_blue = "#edc5ad"
+bright_magenta = "#f0c7b1"

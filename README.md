@@ -2,7 +2,7 @@
 
 A monochrome Omarchy dark theme inspired by Andrew J. Russell's photographs documenting the construction of America's first transcontinental railroad.
 
-![GitHub stars](https://img.shields.io/github/stars/mattbbia/railroad-visions-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/railroad-visions-omarchy?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/mattbbia/railroad-visions-omarchy?style=flat-square) ![License](https://img.shields.io/github/license/mattbbia/railroad-visions-omarchy?style=flat-square) ![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Preview Image](preview.png)
 
@@ -62,19 +62,13 @@ This theme includes twelve carefully selected photographs:
 - Chromium
 - Foot
 - Ghostty
-- GTK
 - Hyprland
-- Hyprlock
 - Kitty
-- Mako
 - Neovim
-- SwayOSD
+- Omarchy Shell (bar, lock screen, notifications, launcher, on-screen display)
 - Vencord
 - VS Code
-- Walker
 - Warp
-- Waybar
-- Wofi
 - Zellij
 
 ## Installation
