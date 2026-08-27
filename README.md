@@ -1,4 +1,4 @@
-# Omarchy Anthony J. Russell Theme
+# Omarchy Andrew J. Russell Theme
 
 A monochrome Omarchy dark theme inspired by Andrew J. Russell's photographs documenting the construction of America's first transcontinental railroad.
 
@@ -105,7 +105,7 @@ If you enjoy this theme and would like to support future themes, you can:
 
 ## Ackdnowledgements
 
-All photography by Anthony J. Russell is in the public domain. The high-resolution source images used in this theme were obtained from [National Gallery of Art](https://www.nga.gov/) and are included here for appreciation and preservation of public-domain photography.
+All photography by Andrew J. Russell is in the public domain. The high-resolution source images used in this theme were obtained from [National Gallery of Art](https://www.nga.gov/) and are included here for appreciation and preservation of public-domain photography.
 
 ## License
 
