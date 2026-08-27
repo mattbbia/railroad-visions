@@ -77,10 +77,8 @@ This theme includes twelve carefully selected photographs:
 
 Clone the repository into your Omarchy themes directory:
 
-``` bash
+```bash
 omarchy-theme-install https://github.com/mattbbia/railroad-visions-omarchy.git
-```
-```
 ```
 ### OR
 
@@ -103,7 +101,7 @@ If you enjoy this theme and would like to support future themes, you can:
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/mattbbia)
 
-## Ackdnowledgements
+## Acknowledgements
 
 All photography by Andrew J. Russell is in the public domain. The high-resolution source images used in this theme were obtained from [National Gallery of Art](https://www.nga.gov/) and are included here for appreciation and preservation of public-domain photography.
 
